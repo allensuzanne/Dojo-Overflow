@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.section_one, .section_two{
+	margin-top: 15px;
+}
+h5{
+	display: block;
+}
